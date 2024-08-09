@@ -7,7 +7,11 @@
 - 1 cup sugar
 - 1 cup water
 - 1 vanilla bean (or 1 1/2 Tbsp vanilla extract)
+<<<<<<< HEAD
 - pinch of salt
+=======
+- A pinch of salt
+>>>>>>> fd5c9fc (Add pinch of salt to vanilla ingredients)
 
 ## How to Make
 
